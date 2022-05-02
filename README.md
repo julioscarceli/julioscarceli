@@ -6,7 +6,6 @@ I'm Julio, learner fascinated by technology, i live in São Paulo, 🇧🇷.
 - 🌱 I’m currently learning : about good habits, new skills, logical reasoning, programming logic, fundamentals of programming, English language.
 - 🤔 I’m looking for help with: Peoples, Collaborators, Developments.
 - 💬 Ask me about: Go,Programming logic.
-- 📫 How to reach me: @scarcelli_julio 
 - ⚡ Fun fact: I love bodybuilding <3
 
 <div style="display: inline_block"><br>
