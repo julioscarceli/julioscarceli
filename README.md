@@ -12,6 +12,6 @@ I'm Julio, learner fascinated by technology, i live in São Paulo, 🇧🇷.
 
 <div>
   
-  <a href="https://twitter.com/scarcelli_julio" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+  <a href="https://twitter.com/scarcelli_julio" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
-  <div>
+</div>
