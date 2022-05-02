@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**julioscarceli/julioscarceli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Julio, learner fascinated by technology, i live in São Paulo, 🇧🇷.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: Projects and courses to become a backend developer.
+- 🌱 I’m currently learning : about good habits, new skills, logical reasoning, programming logic, fundamentals of programming, English language.
+- 🤔 I’m looking for help with: Peoples, Collaborators, Developments.
+- 💬 Ask me about: Go,Programming logic.
+- 📫 How to reach me: @scarcelli_julio 
+- ⚡ Fun fact: I love bodybuilding <3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div>
+  
+  <a href="https://twitter.com/scarcelli_julio" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+  
+  <div>
