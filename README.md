@@ -6,7 +6,7 @@ I'm Julio, learner fascinated by technology, i live in São Paulo, 🇧🇷.
 - 🌱 I’m currently learning : about good habits, new skills, logical reasoning, programming logic, fundamentals of programming, English language.
 - 🤔 I’m looking for help with: Peoples, Collaborators, Developments.
 - 💬 Ask me about: Go,Programming logic.
-- ⚡ Fun fact: I love bodybuilding <3
+- ⚡ Fun fact: I love bodybuilding 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Julio-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
