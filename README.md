@@ -5,8 +5,8 @@ I'm Julio, learner fascinated by technology, i live in São Paulo, 🇧🇷.
 - 🔭 I’m currently working on: Projects and courses to become a backend developer.
 - 🌱 I’m currently learning : about good habits, new skills, logical reasoning, programming logic, fundamentals of programming, English language.
 - 🤔 I’m looking for help with: Peoples, Collaborators, Developments.
-- 💬 Ask me about: Go,Programming logic.
-- ⚡ Fun fact: I love skateboarding
+- 💬 Ask me about: HTML,CSS,Python,Programming logic.
+- ⚡ Fun fact: I love play soccer
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Julio-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
