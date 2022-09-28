@@ -8,14 +8,7 @@ I'm Julio, learner fascinated by technology, i live in São Paulo, 🇧🇷.
 - 💬 Ask me about: HTML,CSS,Python,Programming logic.
 - ⚡ Fun fact: I love play soccer
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Julio-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  
-  <img align="center" alt="Julio-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
-          
- 
-</div>
-  
+
   
   
   
