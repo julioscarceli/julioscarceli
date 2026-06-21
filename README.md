@@ -20,13 +20,14 @@ Sou desenvolvedor backend há 3 anos, atuando numa empresa enquanto mantenho pro
 **Backend:** Python · FastAPI · OOP · SOLID · Arquitetura MVC · JWT
 **Dados & Mensageria:** PostgreSQL · Supabase · RabbitMQ · Redis
 **Frontend (via Lovable):** React · Tailwind · shadcn/ui
-**Infra & Qualidade (em consolidação):** Docker · GitHub Actions (CI/CD) · pytest · Deploy em cloud (Railway/Render) · Playwright
+**Vibe coding:** Claude (Skills · MCPs · Squads)
+**Infra & Qualidade (em consolidação):** Docker · GitHub Actions (CI/CD) · pytest · Deploy em cloud (Railway/Render/Zeabur) · Playwright
 
 ### Projetos em destaque
 
 **Agente de voz com IA para qualificação de crédito** — agente de voz outbound que qualifica e oferece crédito consignado, orquestrado via Python/FastAPI com arquitetura de Call Stages (cada fase da conversa troca de prompt e ferramentas dinamicamente) e integração com WhatsApp. Projeto atual no trabalho.
 
-**Prospecção + atendimento via WhatsApp** — sistema de prospecção de leads via Instagram e atendimento/vendas via WhatsApp para uma empresa do setor de decoração de interiores. n8n + Supabase + OpenAI + Apify. Agentes de atendimento ativos em produção.
+**Prospecção + atendimento via WhatsApp** — sistema de prospecção de leads via Instagram e atendimento/vendas via WhatsApp para uma empresa do setor de decoração de interiores. Migrou de um bot engessado no ManyChat para agentes de IA orquestrados em n8n. n8n + Supabase + OpenAI + Apify. Agentes de atendimento ativos em produção.
 
 **Painel de gestão para discador VoIP** — plataforma white-label para um fornecedor de discador automático: painel de custos com alerta via WhatsApp, automação de campanha com modo pico/cadência, e administração multi-tenant. Python + Playwright + Supabase + Lovable.
 
@@ -56,13 +57,14 @@ I've been a backend developer for 3 years, currently working at a company while 
 **Backend:** Python · FastAPI · OOP · SOLID · MVC architecture · JWT
 **Data & Messaging:** PostgreSQL · Supabase · RabbitMQ · Redis
 **Frontend (via Lovable):** React · Tailwind · shadcn/ui
-**Infra & Quality (in progress):** Docker · GitHub Actions (CI/CD) · pytest · Cloud deploy (Railway/Render) · Playwright
+**Vibe coding:** Claude (Skills · MCPs · Squads)
+**Infra & Quality (in progress):** Docker · GitHub Actions (CI/CD) · pytest · Cloud deploy (Railway/Render/Zeabur) · Playwright
 
 ### Featured projects
 
 **AI voice agent for credit qualification** — outbound voice agent that qualifies and offers payroll-loan credit, orchestrated via Python/FastAPI using a Call Stages architecture (each conversation phase dynamically swaps prompts and tools) with WhatsApp integration. Current project at my day job.
 
-**Instagram prospecting + WhatsApp service** — lead-prospecting system via Instagram with WhatsApp-based service and sales for an interior-decor company. n8n + Supabase + OpenAI + Apify. Service agents live in production.
+**Instagram prospecting + WhatsApp service** — lead-prospecting system via Instagram with WhatsApp-based service and sales for an interior-decor company. Migrated from a rigid ManyChat bot to AI agents orchestrated in n8n. n8n + Supabase + OpenAI + Apify. Service agents live in production.
 
 **Management dashboard for a VoIP dialer** — white-label platform for an automatic dialer provider: cost dashboard with WhatsApp alerts, campaign automation with peak/cadence mode, and multi-tenant admin panel. Python + Playwright + Supabase + Lovable.
 
