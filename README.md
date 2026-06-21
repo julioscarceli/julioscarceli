@@ -1,18 +1,81 @@
-### Hi there 👋
+### Olá, eu sou o Julio 👋 / Hi, I'm Julio 👋
 
-I'm Julio, learner fascinated by technology, i live in São Paulo, 🇧🇷.
+🇧🇷 Português abaixo · 🇺🇸 English below
 
-- 🔭 I’m currently working on: Projects and courses to become a developer.
-- 🌱 I’m currently learning : about good habits, new skills, logical reasoning, programming logic, fundamentals of programming, English language.
-- 🤔 I’m looking for help with: Peoples, Collaborators, Developments.
-- 💬 Ask me about: HTML, CSS,,JavaScript, Python, Programming logic.
-- ⚡ Fun fact: I love play soccer
+---
 
+## 🇧🇷 Sobre mim
 
-  
-  
-  
-  ##
+Desenvolvedor backend focado em **automações, agentes de IA e sistemas integrados**. Construo pipelines completos — de prospecção e qualificação de leads a atendimento e vendas via WhatsApp e voz — com agentes de IA no centro do processo.
+
+📍 São Paulo, Brasil
+
+### Hoje
+
+Sou desenvolvedor backend há 3 anos, atuando numa empresa enquanto mantenho projetos paralelos por fora. Estou cursando Análise e Desenvolvimento de Sistemas e estudo tecnologia por conta própria todos os dias.
+
+### Stack
+
+**Automação & IA:** n8n · OpenAI/LLMs · Ultravox (voz) · Pydantic AI · Langfuse · Apify
+**Backend:** Python · FastAPI · OOP · SOLID · Arquitetura MVC · JWT
+**Dados & Mensageria:** PostgreSQL · Supabase · RabbitMQ · Redis
+**Frontend (via Lovable):** React · Tailwind · shadcn/ui
+**Infra & Qualidade (em consolidação):** Docker · GitHub Actions (CI/CD) · pytest · Deploy em cloud (Railway/Render) · Playwright
+
+### Projetos em destaque
+
+**Agente de voz com IA para qualificação de crédito** — agente de voz outbound que qualifica e oferece crédito consignado, orquestrado via Python/FastAPI com arquitetura de Call Stages (cada fase da conversa troca de prompt e ferramentas dinamicamente) e integração com WhatsApp. Projeto atual no trabalho.
+
+**Prospecção + atendimento via WhatsApp** — sistema de prospecção de leads via Instagram e atendimento/vendas via WhatsApp para uma empresa do setor de decoração de interiores. n8n + Supabase + OpenAI + Apify. Agentes de atendimento ativos em produção.
+
+**Painel de gestão para discador VoIP** — plataforma white-label para um fornecedor de discador automático: painel de custos com alerta via WhatsApp, automação de campanha com modo pico/cadência, e administração multi-tenant. Python + Playwright + Supabase + Lovable.
+
+**Agente de IA em Python (portfólio)** — reescrita de um sistema de atendimento via IA em Python puro (FastAPI + RabbitMQ + Pydantic AI + Langfuse), evoluindo de um protótipo n8n para uma arquitetura testável, observável e escalável.
+
+### No momento
+
+- 🔭 Construindo um portfólio técnico pra vagas júnior em backend/automação/IA
+- 🐍 Aprofundando Python (Docker, testes, CI/CD, deploy em cloud)
+- 🤝 Aberto a colaborações e oportunidades em automação, IA e backend
+
+---
+
+## 🇺🇸 About me
+
+Backend developer focused on **automation, AI agents, and integrated systems**. I build end-to-end pipelines — from lead prospecting and qualification to WhatsApp and voice-based service and sales — with AI agents at the core.
+
+📍 São Paulo, Brazil
+
+### Today
+
+I've been a backend developer for 3 years, currently working at a company while keeping side projects of my own. I'm pursuing a degree in Systems Analysis and Development and study tech on my own every day.
+
+### Stack
+
+**Automation & AI:** n8n · OpenAI/LLMs · Ultravox (voice) · Pydantic AI · Langfuse · Apify
+**Backend:** Python · FastAPI · OOP · SOLID · MVC architecture · JWT
+**Data & Messaging:** PostgreSQL · Supabase · RabbitMQ · Redis
+**Frontend (via Lovable):** React · Tailwind · shadcn/ui
+**Infra & Quality (in progress):** Docker · GitHub Actions (CI/CD) · pytest · Cloud deploy (Railway/Render) · Playwright
+
+### Featured projects
+
+**AI voice agent for credit qualification** — outbound voice agent that qualifies and offers payroll-loan credit, orchestrated via Python/FastAPI using a Call Stages architecture (each conversation phase dynamically swaps prompts and tools) with WhatsApp integration. Current project at my day job.
+
+**Instagram prospecting + WhatsApp service** — lead-prospecting system via Instagram with WhatsApp-based service and sales for an interior-decor company. n8n + Supabase + OpenAI + Apify. Service agents live in production.
+
+**Management dashboard for a VoIP dialer** — white-label platform for an automatic dialer provider: cost dashboard with WhatsApp alerts, campaign automation with peak/cadence mode, and multi-tenant admin panel. Python + Playwright + Supabase + Lovable.
+
+**AI agent in Python (portfolio)** — rewrite of an AI-driven service system in pure Python (FastAPI + RabbitMQ + Pydantic AI + Langfuse), evolving from an n8n prototype into a testable, observable, scalable architecture.
+
+### Currently
+
+- 🔭 Building a technical portfolio for junior backend/automation/AI roles
+- 🐍 Deepening my Python skills (Docker, testing, CI/CD, cloud deploy)
+- 🤝 Open to collaboration and opportunities in automation, AI, and backend
+
+---
+
+<div align="center">
   <a href="https://twitter.com/scarcelli_julio" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  
 </div>
